@@ -2,9 +2,9 @@ Simple script to backup Yahoo Notepad notes.
 
 This script is based off of the Firefox Plugin: https://github.com/sanx/radnotepad-firefox
 
-The Firefox plugin no longer works, so I wrote this script to do the same task using Python.
+I could no longer get the  Firefox plug-in to work, so I wrote this script to do the same task using Python.
 
-Due to the script running from a command prompt, it is not possible to grab the WSSID from a Firefox window.
+Due to the script running from a terminal window, it was not possible to grab the WSSID from a Firefox session.
 
 [testuser@NOTEBOOK Yahoo Notepad Backup]$ ./yahoo-notepad-backup.py  
 What is your Yahoo username: testuser  
