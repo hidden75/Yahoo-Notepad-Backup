@@ -6,9 +6,9 @@ The Firefox plugin no longer works, so I wrote this script to do the same task u
 
 Due to the script running from a command prompt, it is not possible to grab the WSSID from a Firefox window.
 
-[testuser@NOTEBOOK Yahoo Notepad Backup]$ ./yahoo-notepad-backup.py 
+[testuser@NOTEBOOK Yahoo Notepad Backup]$ ./yahoo-notepad-backup.py
 What is your Yahoo username: testuser
-Password: 
+Password:
 Created directory: ./Yahoo-Notepad.testuser/Notebook
 Processing folder: Notebook
 Found (66) journal entries in folder
@@ -34,4 +34,3 @@ Wrote file: ./Yahoo-Notepad.testuser/Test/Test_note.txt
 Done processing folder: Test
 Created zipfile: Yahoo-Notepad-Backup.testuser.2017-10-01-08-45-28.zip
 Removed folder: ./Yahoo-Notepad.testuser
-
