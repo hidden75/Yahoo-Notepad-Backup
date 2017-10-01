@@ -11,7 +11,7 @@ What is your Yahoo username: testuser
 Password:  
 Created directory: ./Yahoo-Notepad.testuser/Notebook  
 Processing folder: Notebook  
-Found (66) journal entries in folder  
+Found (14) journal entries in folder  
 Wrote file: ./Yahoo-Notepad.testuser/Notebook/holy_grail.txt  
 Wrote file: ./Yahoo-Notepad.testuser/Notebook/Five_Flags7_Flags.txt  
 Wrote file: ./Yahoo-Notepad.testuser/Notebook/HOG.txt  

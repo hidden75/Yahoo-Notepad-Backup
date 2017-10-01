@@ -1,6 +1,6 @@
 #!/usr/bin/python
 ########################################
-# Author: hidden_75
+# Author: hidden75
 #
 # Last Modified on Sep 23, 2017
 ########################################
